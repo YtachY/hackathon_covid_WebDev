@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/YtalYa/hackathon_covid_WebDev.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/YtalYa/hackathon_covid_WebDev.git/static/js/main.b9f48683.chunk.js",
-    "main.js.map": "/YtalYa/hackathon_covid_WebDev.git/static/js/main.b9f48683.chunk.js.map",
-    "runtime-main.js": "/YtalYa/hackathon_covid_WebDev.git/static/js/runtime-main.f1d10b69.js",
-    "runtime-main.js.map": "/YtalYa/hackathon_covid_WebDev.git/static/js/runtime-main.f1d10b69.js.map",
-    "static/js/2.0c2a9035.chunk.js": "/YtalYa/hackathon_covid_WebDev.git/static/js/2.0c2a9035.chunk.js",
-    "static/js/2.0c2a9035.chunk.js.map": "/YtalYa/hackathon_covid_WebDev.git/static/js/2.0c2a9035.chunk.js.map",
-    "static/js/3.68e09906.chunk.js": "/YtalYa/hackathon_covid_WebDev.git/static/js/3.68e09906.chunk.js",
-    "static/js/3.68e09906.chunk.js.map": "/YtalYa/hackathon_covid_WebDev.git/static/js/3.68e09906.chunk.js.map",
-    "index.html": "/YtalYa/hackathon_covid_WebDev.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/YtalYa/hackathon_covid_WebDev.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0c2a9035.chunk.js.LICENSE.txt": "/YtalYa/hackathon_covid_WebDev.git/static/js/2.0c2a9035.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/YtalYa/hackathon_covid_WebDev.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/hackathon_covid_WebDev/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hackathon_covid_WebDev/static/js/main.896a6dca.chunk.js",
+    "main.js.map": "/hackathon_covid_WebDev/static/js/main.896a6dca.chunk.js.map",
+    "runtime-main.js": "/hackathon_covid_WebDev/static/js/runtime-main.e20e0159.js",
+    "runtime-main.js.map": "/hackathon_covid_WebDev/static/js/runtime-main.e20e0159.js.map",
+    "static/js/2.dcd2076c.chunk.js": "/hackathon_covid_WebDev/static/js/2.dcd2076c.chunk.js",
+    "static/js/2.dcd2076c.chunk.js.map": "/hackathon_covid_WebDev/static/js/2.dcd2076c.chunk.js.map",
+    "static/js/3.2c7378d0.chunk.js": "/hackathon_covid_WebDev/static/js/3.2c7378d0.chunk.js",
+    "static/js/3.2c7378d0.chunk.js.map": "/hackathon_covid_WebDev/static/js/3.2c7378d0.chunk.js.map",
+    "index.html": "/hackathon_covid_WebDev/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hackathon_covid_WebDev/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dcd2076c.chunk.js.LICENSE.txt": "/hackathon_covid_WebDev/static/js/2.dcd2076c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hackathon_covid_WebDev/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1d10b69.js",
-    "static/js/2.0c2a9035.chunk.js",
+    "static/js/runtime-main.e20e0159.js",
+    "static/js/2.dcd2076c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b9f48683.chunk.js"
+    "static/js/main.896a6dca.chunk.js"
   ]
 }
